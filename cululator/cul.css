@@ -1,0 +1,52 @@
+#text {
+    border: 2px solid black;
+    width: 180px;
+    height: 30px;
+    margin: 5px;
+    padding-right: -20px;
+    border-radius: 5px;
+    text-align: right;
+    background-color: rgb(149, 184, 214);
+    color: black;
+}
+
+.form {
+    border: 2px solid;
+    width: 200px;
+    padding: 50px;
+    padding-bottom: 80px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: black;
+    background-color: rgb(226, 116, 13);
+    overflow: hidden;
+}
+
+.btn {
+    border: 2px solid black;
+    margin: 2px;
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-emphasis-color: red;
+}
+
+.h2 {
+    border: 3px solid white;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 25px;
+}
+
+input {
+    color: white;
+    font-size: large;
+    background-color: rgb(3, 36, 228);
+
+}
